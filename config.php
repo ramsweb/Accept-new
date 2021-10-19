@@ -1,6 +1,6 @@
 <?php 
 	session_start();
-		$conn = mysqli_connect("localhost", "root", "", "accept-arabic");
+		$conn = mysqli_connect("localhost", "root", "", "accept");
 
 	if (!$conn) {
 		die("Error connecting to database: " . mysqli_connect_error());

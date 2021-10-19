@@ -97,7 +97,7 @@ https://templatemo.com/tm-568-digimedia
             </li>
             <li><a href="https://www.instagram.com/accept4marketing/"><i class="fa fa-instagram"></i></a></li>
             <li><a href="https://www.linkedin.com/in/accept-for-marketing-operations-58516b222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPxp8HnQkQm2kI5hD5kbh0g%3D%3D"><i class="fa fa-linkedin"></i></a></li>
-            <!-- <li><a href="#"><i class="fa fa-dribbble"></i></a></li> -->
+            <!-- <li><a style="width:60px;border-radius:10%;background-color:#4da6e7;" href="../index.php"><i class="fa fa-language"> AR</i> </a>  </li> -->
           </ul>
         </div>
       </div>
@@ -125,12 +125,13 @@ https://templatemo.com/tm-568-digimedia
               <li class="scroll-to-section"><a href="#blog">Blog</a></li>
               <li class="scroll-to-section"><a href="#contact">Contact</a></li>
               <li class="scroll-to-section">
-                <div class="border-first-button"><a href="../index.php"><i class="fa fa-language"></i> AR</a></div>
+                <a class="border-first-button" href="../index.php"><i class="fa fa-language"></i> AR</a>
               </li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
             </a>
+            
             <!-- ***** Menu End ***** -->
           </nav>
         </div>
