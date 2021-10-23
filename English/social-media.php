@@ -158,7 +158,8 @@ https://templatemo.com/tm-568-digimedia
               <a href="#">
                 <h4>Account Management</h4>
               </a>
-              <p>Accept For Marketting Operations is recognized Content management company in United Arab Emirates, providing quality web content which attract visitors to your website and help you move up the elusive ladder of SERPs through the use of SEO for higher ranking. Our content management service helps to increase conversions and visibility by utilizing techniques like competitive insight and user’s behaviour. We can help you to identify content mix for your business and create quality content to improve your brand's visibility and drive an emotional connection with your audience.</p>
+              <p>Social media account management  helps businesses to reach consumers simply by placing articles, advertisements and programs on the top websites. These sites act as platforms so that anyone with access to the internet also has easy access to the companies that use them. With the use of such social networking sites like Facebook, Twitter, Instagram and other platforms many business sectors can create and drive traffic to their websites simply by posting links to their websites or product reviews.
+              Social media has the greatest ability to help many businesses today use all social media tools and apps to connect and interact with their customers and prospects. This helps to attract more attention from internet users who use the internet regularly and also increases the revenue growth of your business. With social media marketing, sellers and consumers can interact with each other and gain a thorough understanding of the products these companies are selling. Don't hesitate to get started to keep up with others.</p>
             </div>
           </div>
         </div>

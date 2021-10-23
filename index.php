@@ -156,7 +156,7 @@ https://templatemo.com/tm-568-digimedia
                     <div class="border-first-button scroll-to-section">
                       <a href="tel:0561024332"><i class="fa fa-phone"></i> اتصل الأن</a>
                       <a href="quote.php"><i class="fa fa-envelope"></i> أطلب السعر الأن</a>
-                      <a href="https://iwtsp.com/971561024332"><i class="fa fa-whatsapp"></i> رسال واتساب</a>
+                      <a href="https://iwtsp.com/971561024332"><i class="fa fa-whatsapp"></i> راسلنا واتساب</a>
                     </div>
                   </div>
                 </div>
@@ -188,14 +188,14 @@ https://templatemo.com/tm-568-digimedia
               <div class="about-right-content">
                 <div class="section-heading">
                   <h6>من نحن</h6>
-                  <h4> <em>أكسبت  </em> ما هي</h4>
+                  <h4> ما هي  <em>أكسبت  </em> </h4>
                   <div class="line-dec"></div>
                 </div>
-                <p> نحن وكالة رقمية حديثة تعمل من أجل النمو، نعمل علي مساعدة الشركات الناشئة والصغيرة والكبيرة في تطوير علاماتهم التجارية بشكل أفضل وذلك من خلال استراتيجيات وتكتيكات تسويق رقمية أكثر ملائمة تنقل أعمالهم إلى المستوى الاعلى </p>
+                <p> نحن وكالة رقمية حديثة تعمل من أجل النمو، نعمل على مساعدة الشركات الناشئة والصغيرة والكبيرة في تطوير علاماتهم التجارية بشكل أفضل وذلك من خلال استراتيجيات وتكتيكات تسويق رقمية أكثر ملائمة تنقل أعمالهم إلى المستوى الاعلى   </p>
                 <div class="section-heading">
                   <h6>تنمية الأعمال الصغيرة والشركات الناشئة </h6>
                 </div>
-                <p>تتقدم شركة أكسبت خدمات تسويق رقمية شاملة لأصحاب الأعمال الصغيرة المستعدين لتوسيع أعمالهم للجمهور مما يسهل في زيادة مبيعاتهم. </p>
+                <p>تقدم شركة أكسبت خدمات تسويق رقمية شاملة لأصحاب الأعمال الصغيرة المستعدين لتوسيع أعمالهم للجمهور مما يساهم في زيادة مبيعاتهم. </p>
                 <div class="section-heading">
                   <h6> الأعمال المنزلية </h6>
                 </div>
@@ -297,7 +297,7 @@ https://templatemo.com/tm-568-digimedia
                     <div>
                       <div class="thumb">
                         <span class="icon"><img src="assets/images/service-icon-01.png" alt=""></span>
-                        أدارة حسابات التواصل الاجتماعي
+                       إدارة حسابات التواصل الاجتماعي
                       </div>
                     </div>
                     <div>
@@ -359,9 +359,9 @@ https://templatemo.com/tm-568-digimedia
                           <div class="row">
                             <div class="col-lg-6 align-self-center">
                               <div class="left-text">
-                                <h4>ادارة حسابات التواصل الاجتماعي</h4>
-                                <p>في <em>أكسبت للعمليات التسويقية</em>، نحن نخلق وضعًا مربحًا للجانبين لمؤسسات الأعمال من خلال توفير عرض غزير للأعمال التجارية في المجالات عبر الإنترنت للعملاء المستهدفين الحقيقيين.</p>
-                                <div class="ticks-list"><span><i class="fa fa-check"></i> ادارة الحساب</span><br>
+                                <h4>إدارة حسابات التواصل الاجتماعي</h4>
+                                <p>في <em>أكسبت للعمليات التسويقية</em>، نحن نخلق بينكم وبين عملائكم روح الثقه المتبادله حيث نسعى دوما ان تكون إدارة مواقع التواصل الإجتماعي بأسلوب و بطريقة تناسب نشاطكم التجاري.</p>
+                                <div class="ticks-list"><span><i class="fa fa-check"></i>   إدارة الحسابات</span><br>
                                   <span><i class="fa fa-check"></i> الحملات</span>
                                 </div>
                                 <div class="border-first-button"><a href="social-media.php"> عرض المزيد <i class="fa  fa-arrow-left"></i></a></div>

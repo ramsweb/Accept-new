@@ -115,11 +115,11 @@ https://templatemo.com/tm-568-digimedia
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav" style="float:left">
-              <li class="scroll-to-section"><a href="#top" class="active"> الرئيسية</a></li>
-              <li class="scroll-to-section"><a href="#about">من نحن</a></li>
-              <li class="scroll-to-section"><a href="#services">خدماتنا</a></li>
+              <li class="scroll-to-section"><a href="index.php" class="active"> الرئيسية</a></li>
+              <li class="scroll-to-section"><a href="index.php">من نحن</a></li>
+              <li class="scroll-to-section"><a href="index.php">خدماتنا</a></li>
               <!-- <li class="scroll-to-section"><a href="#portfolio">Projects</a></li> -->
-              <li class="scroll-to-section"><a href="#blog"> المدونة</a></li>
+              <li class="scroll-to-section"><a href="blog.php"> المدونة</a></li>
               <li class="scroll-to-section"><a href="#contact">تواصل معنا</a></li>
               <li class="scroll-to-section">
                 <div class="border-first-button"><a href="English/index.php"><i class="fa fa-language"></i> EN</a></div>
@@ -146,9 +146,9 @@ https://templatemo.com/tm-568-digimedia
                 <div class="post-item">
                   <div class="right-content">
                     <a href="blog.php">
-                      <span class="category">All</span>
+                      <span class="category">الجميع</span></a>
                   </div>
-                  </a>
+                  
                 </div>
               </div>
             <?php for ($i = 0; $i < count($topics); $i++) {
