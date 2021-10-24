@@ -158,8 +158,7 @@ https://templatemo.com/tm-568-digimedia
               <a href="#">
                 <h4>Account Management</h4>
               </a>
-              <p>Social media account management  helps businesses to reach consumers simply by placing articles, advertisements and programs on the top websites. These sites act as platforms so that anyone with access to the internet also has easy access to the companies that use them. With the use of such social networking sites like Facebook, Twitter, Instagram and other platforms many business sectors can create and drive traffic to their websites simply by posting links to their websites or product reviews.
-              Social media has the greatest ability to help many businesses today use all social media tools and apps to connect and interact with their customers and prospects. This helps to attract more attention from internet users who use the internet regularly and also increases the revenue growth of your business. With social media marketing, sellers and consumers can interact with each other and gain a thorough understanding of the products these companies are selling. Don't hesitate to get started to keep up with others.</p>
+              <p>We manage the pages of social networking sites and social media for both companies, individuals and institutions around the world, where we improve the identity (design) accounts again and identify creative ideas for publications (posts), write content and create the necessary designs for them, publish and follow up and manage advertising campaigns funded for social networking sites.</p>
             </div>
           </div>
         </div>
@@ -172,7 +171,7 @@ https://templatemo.com/tm-568-digimedia
               <a href="#">
                 <h4>Campaigns</h4>
               </a>
-              <p>As the number of technology, such as social media sites, continues to increase, many companies are starting to rely on a variety of digital marketing strategies to help promote and market a company's services or products. Since the Internet offers the opportunity to instantly interact with a wide audience, creating a campaign based on solid technologies can happen much faster than a more standardized marketing campaign could. A result-oriented campaign helps gather information from potential customers and use that data to help target a specific group. Thus, digital marketing campaign plays a crucial role in business success. With our effective digital marketing campaign, we will introduce your brand to the public, generate revenue and create excitement around your product or service to generate sales. Contact us today and allow us to help you generate real targeted customers and convert them to sales.</p>
+              <p>Advertising campaigns aim to introduce new or existing products and services to maintain consumer loyalty to the commodity and maintain the position of the products in the market due to the large number of competitors and gain new customers with the aim of deep definition of the product and enhancing the image of the producing company in the minds of the public. The goal is to increase sales and achieve the largest economic profit. The brand’s message and the idea of the product or service must be interconnected with the target audience, which makes you achieve maximum benefit from us.</p>
             </div>
           </div>
         </div>

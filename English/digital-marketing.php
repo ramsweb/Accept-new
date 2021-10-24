@@ -175,19 +175,7 @@ https://templatemo.com/tm-568-digimedia
             </div>
           </div>
         </div>
-        <div class="col-lg-6 show-up wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-          <div class="blog-post">
-            <div class="thumb">
-              <a href="#"><img src="assets/images/features/DigitalCampaigns-eng.jpg" alt=""></a>
-            </div>
-            <div class="down-content">
-              <a href="#">
-                <h4>Campaigns</h4>
-              </a>
-              <p>As the number of technology, such as social media sites, continues to increase, many companies are starting to rely on a variety of digital marketing strategies to help promote and market a company's services or products. Since the Internet offers the opportunity to instantly interact with a wide audience, creating a campaign based on solid technologies can happen much faster than a more standardized marketing campaign could. A result-oriented campaign helps gather information from potential customers and use that data to help target a specific group. Thus, digital marketing campaign plays a crucial role in business success. With our effective digital marketing campaign, we will introduce your brand to the public, generate revenue and create excitement around your product or service to generate sales. Contact us today and allow us to help you generate real targeted customers and convert them to sales.</p>
-            </div>
-          </div>
-        </div>
+        
       
       </div>
     </div>

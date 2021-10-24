@@ -116,7 +116,7 @@ https://templatemo.com/tm-568-digimedia
                   <div class="col-lg-12">
                     <h6>Accept</h6>
                     <h2>Photography</h2>
-                    <p>In today's competitive business industry, high quality product photography is the key to business success. Our expert product photographer's skill and expertise are invaluable. They know the right amount of high colour, lighting, background, clarity, composition and context needed by your product photography to bring up the product's sharpness in the best quality manner. Website is all about expressing good quality pictures and this involves the use of good quality pictures that are professionally captured to increase the sales of the website products and the brand services. With the help of Accept product photographing service, good quality images that are compatible with all browsers can be easily integrated to your website to attract your website visitors and increase click-to-buy.</p>
+                    <p>In today's competitive business industry, high quality product photography is the key to business success. The skill and experience of our expert product photographer is invaluable. They know the right amount of high color, lighting, background, clarity, composition and context your product photography needs to bring out the sharpness of the product in the best quality way.</p>
                   </div>
                   <div class="col-lg-12">
                     <div class="border-first-button scroll-to-section">
@@ -175,19 +175,7 @@ https://templatemo.com/tm-568-digimedia
             </div>
           </div>
         </div>
-        <div class="col-lg-6 show-up wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-          <div class="blog-post">
-            <div class="thumb">
-              <a href="#"><img src="assets/images/features/Commercial-Photography.jpg" alt=""></a>
-            </div>
-            <div class="down-content">
-              <a href="#">
-                <h4>Commercial Photography</h4>
-              </a>
-              <p>As a professional commercial photography agency, we face practical and strategic challenges. This includes studying the position, time and different angles to capture the different photographs and post-production editing to improve your product and make it attractive to your target customers. Commercial photography requires certain types of technical skills, such as finding the right subject and creating a presentation for a specific or general effect. We use state-of-the-art innovative models and digital enhancement tools such as saturation, contrast and airbrushing to enhance or even change the state and composition of the photographed product in order to present it in the best manner.</p>
-            </div>
-          </div>
-        </div>
+        
       
       </div>
     </div>

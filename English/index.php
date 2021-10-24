@@ -149,7 +149,7 @@ https://templatemo.com/tm-568-digimedia
                 <div class="row">
                   <div class="col-lg-12">
                     <h6>Accept</h6>
-                    <h2>Make the world accept you!!</h2>
+                    <h2>Make the world accept you <i class="fa fa-check" style="color:#4da6e7;"></i></h2>
                     <!-- <p>This template is brought to you by TemplateMo website. Feel free to use this for a commercial purpose. You are not allowed to redistribute the template ZIP file on any other template website. Thank you.</p> -->
                   </div>
                   <div class="col-lg-12">
@@ -446,7 +446,7 @@ https://templatemo.com/tm-568-digimedia
                                   SERPs through the use of SEO for higher ranking.</p>
                                 <div class="ticks-list"><span><i class="fa fa-check"></i> Search Engine
                                     Optimization</span>
-                                  <span><i class="fa fa-check"></i> Campaigns</span> <span><i class="fa fa-check"></i>
+                                 <span><i class="fa fa-check"></i>
                                     Content Management</span>
                                 </div>
                                 <div class="border-first-button"><a href="digital-marketing.php"> View More <i class="fa  fa-arrow-right"></i></a></div>
