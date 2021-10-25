@@ -116,7 +116,7 @@ https://templatemo.com/tm-568-digimedia
                   <div class="col-lg-12">
                     <h6>Accept</h6>
                     <h2>Photography</h2>
-                    <p>In today's competitive business industry, high quality product photography is the key to business success. Our expert product photographer's skill and expertise are invaluable. They know the right amount of high colour, lighting, background, clarity, composition and context needed by your product photography to bring up the product's sharpness in the best quality manner. Website is all about expressing good quality pictures and this involves the use of good quality pictures that are professionally captured to increase the sales of the website products and the brand services. With the help of Accept product photographing service, good quality images that are compatible with all browsers can be easily integrated to your website to attract your website visitors and increase click-to-buy.</p>
+                    <p>In today's competitive business industry, high quality product photography is the key to business success. The skill and experience of our expert product photographer is invaluable. They know the right amount of high color, lighting, background, clarity, composition and context your product photography needs to bring out the sharpness of the product in the best quality way.</p>
                   </div>
                   <div class="col-lg-12">
                     <div class="border-first-button scroll-to-section">
@@ -175,19 +175,7 @@ https://templatemo.com/tm-568-digimedia
             </div>
           </div>
         </div>
-        <div class="col-lg-6 show-up wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-          <div class="blog-post">
-            <div class="thumb">
-              <a href="#"><img src="assets/images/features/Commercial-Photography.jpg" alt=""></a>
-            </div>
-            <div class="down-content">
-              <a href="#">
-                <h4>Commercial Photography</h4>
-              </a>
-              <p>As a professional commercial photography agency, we face practical and strategic challenges. This includes studying the position, time and different angles to capture the different photographs and post-production editing to improve your product and make it attractive to your target customers. Commercial photography requires certain types of technical skills, such as finding the right subject and creating a presentation for a specific or general effect. We use state-of-the-art innovative models and digital enhancement tools such as saturation, contrast and airbrushing to enhance or even change the state and composition of the photographed product in order to present it in the best manner.</p>
-            </div>
-          </div>
-        </div>
+        
       
       </div>
     </div>
@@ -298,7 +286,7 @@ https://templatemo.com/tm-568-digimedia
               </div>
               <div class="col-lg-5">
                 <div id="map">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.3533715369417!2d54.34701951499524!3d24.47321018423808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e672ba2962a6b%3A0x4c6504696061593b!2sShining%20Towers!5e0!3m2!1sen!2sin!4v1634041066620!5m2!1sen!2sin" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.1700998078077!2d54.352748814860504!3d24.479562484235075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s7HPPF9H3%2BRX!5e0!3m2!1sen!2sae!4v1634194837659!5m2!1sen!2sae" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
               </div>
               <div class="col-lg-7">
@@ -324,7 +312,7 @@ https://templatemo.com/tm-568-digimedia
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/location-icon.png" alt="">
-                          <a href="https://goo.gl/maps/yG9RTMwadXQc56MN7">Accept, Khalidhiya, AbuDhabi</a>
+                          <a href="https://goo.gl/maps/X2fnMB7gBnm1cAvm7">Accept, Khalidhiya, AbuDhabi</a>
                         </div>
                       </div>
                     </div>

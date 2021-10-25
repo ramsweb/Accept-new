@@ -175,17 +175,17 @@ https://templatemo.com/tm-568-digimedia
     </div>
   </div>
 
-   <div id="contact" class="contact-us section">
+     <div id="contact" class="contact-us section">
     <div class="container" dir="rtl">
       <div class="row">
         <div class="col-lg-12 offset-lg-3">
-          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-            <h6>اتصل بنا</h6>
-            <h4>اتصل بنا <em>حاليا</em></h4>
+          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+            <h6>أكسبت</h6>
+            <h4>اتصل<em> بنا الآن</em></h4>
             <div class="line-dec"></div>
           </div>
         </div>
-        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
+        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.2s">
           <form id="contact" action="" method="post">
             <div class="row">
               <div class="col-lg-12">
@@ -222,7 +222,7 @@ https://templatemo.com/tm-568-digimedia
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/location-icon.png" alt="">
-                          <a href="#">برج الجزيرة ، الخالدية ، أبوظبي</a>
+                          <a href="https://goo.gl/maps/MUCBCAx3jTYbgVnY6">برج الجزيرة ، الخالدية ، أبوظبي</a>
                         </div>
                       </div>
                     </div>

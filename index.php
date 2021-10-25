@@ -139,7 +139,7 @@ https://templatemo.com/tm-568-digimedia
   </header>
   <!-- ***** Header Area End ***** -->
 
-  <div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+  <div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.2s">
     <div class="container" dir="rtl">
       <div class="row">
         <div class="col-lg-12">
@@ -149,21 +149,21 @@ https://templatemo.com/tm-568-digimedia
                 <div class="row">
                   <div class="col-lg-12">
                     <h6>أكسبت</h6>
-                    <h2>إجعل العالم يوافق عليك  <i class="fa fa-check" style="color:#4da6e7 ;"></i></h2>
+                    <h2>إجعل العالم يوافق عليك  <i class="fa fa-check" style="color:#4da6e7;"></i></h2>
                     <!-- <p>This template is brought to you by TemplateMo website. Feel free to use this for a commercial purpose. You are not allowed to redistribute the template ZIP file on any other template website. Thank you.</p> -->
                   </div>
                   <div class="col-lg-12">
                     <div class="border-first-button scroll-to-section">
                       <a href="tel:0561024332"><i class="fa fa-phone"></i> اتصل الأن</a>
                       <a href="quote.php"><i class="fa fa-envelope"></i> أطلب السعر الأن</a>
-                      <a href="https://iwtsp.com/971561024332"><i class="fa fa-whatsapp"></i> رسال واتساب</a>
+                      <a href="https://iwtsp.com/971561024332"><i class="fa fa-whatsapp"></i> راسلنا واتساب</a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
             <div class="col-lg-6">
-              <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+              <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
                 <img src="assets/images/banner.png" alt="">
               </div>
             </div>
@@ -179,23 +179,23 @@ https://templatemo.com/tm-568-digimedia
         <div class="col-lg-12">
           <div class="row">
             <div class="col-lg-6">
-              <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+              <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
                 <br><br>
                 <img src="assets/images/about-dec-v3.png" alt="">
               </div>
             </div>
-            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
               <div class="about-right-content">
                 <div class="section-heading">
                   <h6>من نحن</h6>
-                  <h4> <em>أكسبت  </em> ما هي</h4>
+                  <h4> ما هي  <em>أكسبت  </em> </h4>
                   <div class="line-dec"></div>
                 </div>
-                <p> نحن وكالة رقمية حديثة تعمل من أجل النمو، نعمل علي مساعدة الشركات الناشئة والصغيرة والكبيرة في تطوير علاماتهم التجارية بشكل أفضل وذلك من خلال استراتيجيات وتكتيكات تسويق رقمية أكثر ملائمة تنقل أعمالهم إلى المستوى الاعلى </p>
+                <p> نحن وكالة رقمية حديثة تعمل من أجل النمو، نعمل على مساعدة الشركات الناشئة والصغيرة والكبيرة في تطوير علاماتهم التجارية بشكل أفضل وذلك من خلال استراتيجيات وتكتيكات تسويق رقمية أكثر ملائمة تنقل أعمالهم إلى المستوى الاعلى   </p>
                 <div class="section-heading">
                   <h6>تنمية الأعمال الصغيرة والشركات الناشئة </h6>
                 </div>
-                <p>تتقدم شركة أكسبت خدمات تسويق رقمية شاملة لأصحاب الأعمال الصغيرة المستعدين لتوسيع أعمالهم للجمهور مما يسهل في زيادة مبيعاتهم. </p>
+                <p>تقدم شركة أكسبت خدمات تسويق رقمية شاملة لأصحاب الأعمال الصغيرة المستعدين لتوسيع أعمالهم للجمهور مما يساهم في زيادة مبيعاتهم. </p>
                 <div class="section-heading">
                   <h6> الأعمال المنزلية </h6>
                 </div>
@@ -276,7 +276,7 @@ https://templatemo.com/tm-568-digimedia
     <div class="container" dir="rtl">
       <div class="row">
         <div class="col-lg-12">
-          <div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
+          <div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.2s">
             <h6>خدماتنا</h6>
             <h4>ماذا تقدم <em>اكسبت</em></h4>
             <div class="line-dec"></div>
@@ -297,7 +297,7 @@ https://templatemo.com/tm-568-digimedia
                     <div>
                       <div class="thumb">
                         <span class="icon"><img src="assets/images/service-icon-01.png" alt=""></span>
-                        أدارة حسابات التواصل الاجتماعي
+                       إدارة حسابات التواصل الاجتماعي
                       </div>
                     </div>
                     <div>
@@ -359,9 +359,9 @@ https://templatemo.com/tm-568-digimedia
                           <div class="row">
                             <div class="col-lg-6 align-self-center">
                               <div class="left-text">
-                                <h4>ادارة حسابات التواصل الاجتماعي</h4>
-                                <p>في <em>أكسبت للعمليات التسويقية</em>، نحن نخلق وضعًا مربحًا للجانبين لمؤسسات الأعمال من خلال توفير عرض غزير للأعمال التجارية في المجالات عبر الإنترنت للعملاء المستهدفين الحقيقيين.</p>
-                                <div class="ticks-list"><span><i class="fa fa-check"></i> ادارة الحساب</span><br>
+                                <h4>إدارة حسابات التواصل الاجتماعي</h4>
+                                <p>في <em>أكسبت للعمليات التسويقية</em>، نحن نخلق بينكم وبين عملائكم روح الثقه المتبادله حيث نسعى دوما ان تكون إدارة مواقع التواصل الإجتماعي بأسلوب و بطريقة تناسب نشاطكم التجاري.</p>
+                                <div class="ticks-list"><span><i class="fa fa-check"></i>   إدارة الحسابات</span><br>
                                   <span><i class="fa fa-check"></i> الحملات</span>
                                 </div>
                                 <div class="border-first-button"><a href="social-media.php"> عرض المزيد <i class="fa  fa-arrow-left"></i></a></div>
@@ -384,9 +384,9 @@ https://templatemo.com/tm-568-digimedia
                             <div class="col-lg-6 align-self-center">
                               <div class="left-text">
                                 <h4>التصوير</h4>
-                                <p><em>أكسبت للعمليات التسويقية</em> تقديم خدمة مرئية متطورة تساعد بالفعل على عرض منتجاتك وزيادة بيع المنتج.</p>
+                                <p><em>أكسبت للعمليات التسويقية</em> تقدم خدمة التصوير السينمائي الإحترافي حيث تساعد بالفعل على عرض منتجاتك وزيادة بيع المنتج.</p>
                                 <div class="ticks-list"><span><i class="fa fa-check"></i> تصوير المنتج  </span><br>
-                                  <span><i class="fa fa-check"></i> تصوير الطعام  </span><br> <span><i class="fa fa-check"></i> التصوير التجاري  </span>
+                                  <span><i class="fa fa-check"></i> تصوير الطعام  </span>
                                   
                                 </div>
                                 <div class="border-first-button"><a href="photography.php"> عرض المزيد<i class="fa  fa-arrow-left"></i></a></div>
@@ -409,7 +409,7 @@ https://templatemo.com/tm-568-digimedia
                             <div class="col-lg-6 align-self-center">
                               <div class="left-text">
                                 <h4>تطوير الشبكة</h4>
-                                <p><em>أكسبت للعمليات التسويقية</em>هي شركة تطوير احترافية وموثوقة وقفة واحدة تقدم لك حلولاً دقيقة لجميع احتياجات تصميم وتطوير الويب الخاصة بك في الوقت الفعلي.</p>
+                                <p><em>أكسبت للعمليات التسويقية</em>هي شركة تطوير احترافية وموثوقة  تقدم لك حلولاً دقيقة لجميع احتياجات تصميم وتطوير الويب الخاصة بك في الوقت الفعلي.</p>
                                 <div class="ticks-list"><span><i class="fa fa-check"></i>  إدارة الموقع  </span><br>
                                   <span><i class="fa fa-check"></i>  موقع التجارة الإلكترونية  </span> <br><span><i class="fa fa-check"></i> تطبيق الهاتف المحمول  </span>
                                 </div>
@@ -435,9 +435,9 @@ https://templatemo.com/tm-568-digimedia
                             <div class="col-lg-6 align-self-center">
                               <div class="left-text">
                                 <h4>التسويق الرقمي</h4>
-                                <p><em>أكسبت للعمليات التسويقية</em> تساعدك على الارتقاء في سلم SERPs المراوغ من خلال استخدام مُحسنات محركات البحث للحصول على ترتيب أعلى.</p>
-                                <div class="ticks-list"><span><i class="fa fa-check"></i> محرك البحث الامثل</span><br>
-                                  <span><i class="fa fa-check"></i> الحملات</span> <br><span><i class="fa fa-check"></i>
+                                <p><em>أكسبت للعمليات التسويقية</em> تساعدك على الارتقاء من خلال استخدام مُحسنات محركات البحث للحصول على ترتيب أعلى ومساعدتك في الوصول لأعلى معايير التنافسية.</p>
+                                <div class="ticks-list"><span><i class="fa fa-check"></i> تحسين محركات البحث</span><br>
+                                  <span><i class="fa fa-check"></i>
                                     ادارة المحتوى</span>
                                 </div>
                                 <div class="border-first-button"><a href="digital-marketing.php"> عرض المزيد <i class="fa  fa-arrow-left"></i></a></div>
@@ -461,7 +461,7 @@ https://templatemo.com/tm-568-digimedia
                             <div class="col-lg-6 align-self-center">
                               <div class="left-text">
                                 <h4>التصوير بالفيديو</h4>
-                                <p><em>أكسبت للعمليات التسويقية</em> تقديم خدمات إنتاج الفيديو التي تشمل إنشاء المفاهيم وتغطية الفيديو وخدمات تحرير الفيديو كشكل من أشكال تسويق منتجاتك وعرض إعلانات جديدة وإبلاغ خدماتك لعملائك المحتملين.</p>
+                                <p><em>أكسبت للعمليات التسويقية</em> تقدم خدمات إنتاج الفيديو التي تشمل إنشاء المفاهيم وتغطية الفيديو وخدمات تحرير الفيديو كشكل من أشكال تسويق منتجاتك وعرض إعلانات جديدة وإبلاغ خدماتك لعملائك المحتملين</p>
                                 <div class="ticks-list">
                                     <span><i class="fa fa-check"></i> فيديو ترويجي</span><br> <span><i class="fa fa-check"></i>
                                     تمييز الفيديو</span> <br><span><i class="fa fa-check"></i>تفاصيل الفيديو</span>
@@ -640,7 +640,7 @@ https://templatemo.com/tm-568-digimedia
   <div id="blog" class="blog">
     <div class="container" dir="rtl">
       <div class="row">
-        <div class="col-lg-12 offset-lg-4  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.3s">
+        <div class="col-lg-12 offset-lg-4  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.2s">
           <div class="section-heading">
             <h6>أخبار حديثة</h6>
             <h4>تحقق من مدونتنا <em>دعامات</em></h4>
@@ -665,7 +665,7 @@ https://templatemo.com/tm-568-digimedia
             </div>
           </div>
         </div>
-        <div class="col-lg-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+        <div class="col-lg-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
           <div class="blog-posts">
             <div class="row">
               <div class="col-lg-12">
@@ -725,13 +725,13 @@ https://templatemo.com/tm-568-digimedia
     <div class="container" dir="rtl">
       <div class="row">
         <div class="col-lg-12 offset-lg-3">
-          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-            <h6>اتصل بنا</h6>
-            <h4>اتصل بنا <em>حاليا</em></h4>
+          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+            <h6>أكسبت</h6>
+            <h4>اتصل<em> بنا الآن</em></h4>
             <div class="line-dec"></div>
           </div>
         </div>
-        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
+        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.2s">
           <form id="contact" action="" method="post">
             <div class="row">
               <div class="col-lg-12">
@@ -768,7 +768,7 @@ https://templatemo.com/tm-568-digimedia
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/location-icon.png" alt="">
-                          <a href="#">برج الجزيرة ، الخالدية ، أبوظبي</a>
+                          <a href="https://goo.gl/maps/MUCBCAx3jTYbgVnY6">برج الجزيرة ، الخالدية ، أبوظبي</a>
                         </div>
                       </div>
                     </div>

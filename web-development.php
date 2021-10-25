@@ -117,7 +117,7 @@ https://templatemo.com/tm-568-digimedia
                   <div class="col-lg-12">
                     <h6>أكسبت</h6>
                     <h2>تطوير الشبكة</h2>
-                    <p>تمتلك شركتنا الكثير من المحترفين وخبراء تطوير الويب الحائزين على جوائز والذين لديهم خبرة كافية في إنشاء إستراتيجية العلامة التجارية المتطورة وتطوير مواقع الويب عالية الجودة وخدمات التسويق الأفضل في فئتها للشركات الصغيرة والمتوسطة والشركات الكبيرة. مهنيونا مجهزون تجهيزًا جيدًا لأداء كل مهمة بما في ذلك الترميز والتصميم وتطوير المحتوى والترميز وتطوير التجارة الإلكترونية والبرمجة النصية وإعداد الأمان لمساحة عملك على الإنترنت بطريقة مرضية. سيستمع خبراؤنا بعناية إلى متطلباتك لتقديم حلول دقيقة لاحتياجات تطوير وإدارة الويب بالكامل بطريقة الوقت الفعلي.</p>
+                    <p>تمتلك شركتنا الكثير من المحترفين وخبراء تطوير الويب الحائزين على جوائز والذين لديهم خبرة كافية في إنشاء إستراتيجية العلامة التجارية المتطورة وتطوير مواقع الويب عالية الجودة وخدمات التسويق الأفضل في فئتها للشركات الصغيرة والمتوسطة والشركات الكبيرة. طاقامنا مجهزون تجهيزًا جيدًا لأداء كل مهمة بما في ذلك الترميز والتصميم وتطوير المحتوى وتطوير التجارة الإلكترونية والبرمجة النصية وإعداد الأمان لمساحة عملك على الإنترنت بطريقة مرضية. سيستمع خبراؤنا بعناية إلى متطلباتك لتقديم حلول دقيقة لاحتياجات تطوير وإدارة الويب بالكامل بطريقة الوقت الفعلي.</p>
                   </div>
                   <div class="col-lg-12">
                     <div class="border-first-button scroll-to-section">
@@ -153,7 +153,7 @@ https://templatemo.com/tm-568-digimedia
         <div class="col-lg-6 show-up wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
           <div class="blog-post">
             <div class="thumb">
-              <a href="#"><img src="assets/images/features/Website-Management.jpg" alt=""></a>
+              <a href="#"><img src="assets/images/features/Website-Management-ar.jpg" alt=""></a>
             </div>
             <div class="down-content">
               <a href="#">
@@ -167,20 +167,20 @@ https://templatemo.com/tm-568-digimedia
         <div class="col-lg-6 show-up wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
           <div class="blog-post">
             <div class="thumb">
-              <a href="#"><img src="assets/images/features/E-commerce-Website-eng.jpg" alt=""></a>
+              <a href="#"><img src="assets/images/features/E-commerce-Website-ar.jpg" alt=""></a>
             </div>
             <div class="down-content">
               <a href="#">
                 <h4>موقع التجارة الإلكترونية</h4>
               </a>
-              <p>في هذه الأيام الحديثة ، أصبحت الطريقة التقليدية لممارسة الأعمال التجارية عفا عليها الزمن. لا يملك العملاء الوقت والطاقة للسير من متجر إلى متجر آخر. لقد نجحت مواقع التجارة الإلكترونية في حل هذه المشكلة بسهولة بالغة. لدينا خبراء مدربون جيدًا ومهرة يعملون بتفان والتزام كامل في إنشاء مواقع ويب ديناميكية وسهلة الاستخدام تجعل تجربة التسوق لعميلك ممتعة. في Accept for Marketing ، نركز على منح عميلك تجربة تصفح ممتعة. يتبع مصممونا المحترفون أحدث الاتجاهات في تصميم مواقع التجارة الإلكترونية ولا يشملون سوى المحتوى ذي الصلة على موقع الويب الخاص بك لمساعدة علامتك التجارية على إقامة علاقة ثقة مع العملاء.</p>
+              <p>في هذه الأيام الحديثة ، أصبحت الطريقة التقليدية لممارسة الأعمال التجارية تنقرض مع مرور الزمن. لا يملك العملاء الوقت والطاقة للسير من متجر إلى متجر آخر. لقد نجحت مواقع التجارة الإلكترونية في حل هذه المشكلة بسهولة بالغة. لدينا خبراء مدربون جيدًا ومهرة يعملون بتفان والتزام كامل في إنشاء مواقع ويب ديناميكية وسهلة الاستخدام تجعل تجربة التسوق لعميلك ممتعة. في اكسبت للعمليات التسويقية ، نركز على منح عميلك تجربة تصفح ممتعة. يتبع مصممونا المحترفون أحدث الاتجاهات في تصميم مواقع التجارة الإلكترونية ولا يشملون سوى المحتوى ذي الصلة على موقع الويب الخاص بك لمساعدة علامتك التجارية على إقامة علاقة ثقة مع العملاء.</p>
             </div>
           </div>
         </div>
         <div class="col-lg-6 show-up wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
           <div class="blog-post">
             <div class="thumb">
-              <a href="#"><img src="assets/images/features/Mobile-Application-eng.jpg" alt=""></a>
+              <a href="#"><img src="assets/images/features/Mobile-Application-ar.jpg" alt=""></a>
             </div>
             <div class="down-content">
               <a href="#">
@@ -285,17 +285,17 @@ https://templatemo.com/tm-568-digimedia
 
   
 
- <div id="contact" class="contact-us section" dir="rtl">
-    <div class="container">
+   <div id="contact" class="contact-us section">
+    <div class="container" dir="rtl">
       <div class="row">
         <div class="col-lg-12 offset-lg-3">
-          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-            <h6>اتصل بنا</h6>
-            <h4>اتصل بنا <em>حاليا</em></h4>
+          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+            <h6>أكسبت</h6>
+            <h4>اتصل<em> بنا الآن</em></h4>
             <div class="line-dec"></div>
           </div>
         </div>
-        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
+        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.2s">
           <form id="contact" action="" method="post">
             <div class="row">
               <div class="col-lg-12">
@@ -305,7 +305,7 @@ https://templatemo.com/tm-568-digimedia
               </div>
               <div class="col-lg-5">
                 <div id="map">
-                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14524.008064859036!2d54.35756199773545!3d24.48538699542688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e670172305d2f%3A0xf06b9f6a06c058df!2z2KfZg9iz2KjYqiDZhNmE2LnZhdmE2YrYp9iqINin2YTYqtiz2YjZitmC2YrYqSAtIEFDQ0VQVCBGT1IgTUFSS0VUSU5HIE9QRVJBVElPTlM!5e0!3m2!1sen!2sae!4v1634373167506!5m2!1sen!2sae" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.1700998078077!2d54.352748814860504!3d24.479562484235075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s7HPPF9H3%2BRX!5e0!3m2!1sen!2sae!4v1634194837659!5m2!1sen!2sae" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
                   
                 </div>
               </div>
@@ -332,7 +332,7 @@ https://templatemo.com/tm-568-digimedia
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/location-icon.png" alt="">
-                          <a href="#">برج الجزيرة ، الخالدية ، أبوظبي</a>
+                          <a href="https://goo.gl/maps/MUCBCAx3jTYbgVnY6">برج الجزيرة ، الخالدية ، أبوظبي</a>
                         </div>
                       </div>
                     </div>
@@ -347,7 +347,6 @@ https://templatemo.com/tm-568-digimedia
                         <fieldset>
                           <input type="text" name="Email" id="Email" pattern="[^ @]*@[^ @]*" placeholder="بريد الالكتروني" required="">
                         </fieldset>
-
                       </div>
                       <div class="col-lg-6">
                         <fieldset>
@@ -356,7 +355,7 @@ https://templatemo.com/tm-568-digimedia
                       </div>
                       <div class="col-lg-12">
                         <fieldset>
-                          <button type="submit" id="form-submit" class="main-button ">أرسل الرسالة الآن</button>
+                          <button type="submit" id="fcf-button" class="main-button ">أرسل الرسالة الآن</button>
                         </fieldset>
                       </div>
                     </form>

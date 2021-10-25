@@ -150,7 +150,7 @@ https://templatemo.com/tm-568-digimedia
                 <div class="row">
                   <div class="col-lg-12">
                     <h6>Accept</h6>
-                    <h2>Make the world accept you!!</h2>
+                    <h2>Make the world accept you <i class="fa fa-check" style="color:#4da6e7;"></i></h2>
                     <!-- <p>This template is brought to you by TemplateMo website. Feel free to use this for a commercial purpose. You are not allowed to redistribute the template ZIP file on any other template website. Thank you.</p> -->
                   </div>
                   <div class="col-lg-12">
@@ -447,7 +447,7 @@ https://templatemo.com/tm-568-digimedia
                                   SERPs through the use of SEO for higher ranking.</p>
                                 <div class="ticks-list"><span><i class="fa fa-check"></i> Search Engine
                                     Optimization</span>
-                                  <span><i class="fa fa-check"></i> Campaigns</span> <span><i class="fa fa-check"></i>
+                                 <span><i class="fa fa-check"></i>
                                     Content Management</span>
                                 </div>
                                 <div class="border-first-button"><a href="digital-marketing.php"> View More <i class="fa  fa-arrow-right"></i></a></div>
@@ -749,7 +749,7 @@ https://templatemo.com/tm-568-digimedia
               </div>
               <div class="col-lg-5">
                 <div id="map">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.3533715369417!2d54.34701951499524!3d24.47321018423808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e672ba2962a6b%3A0x4c6504696061593b!2sShining%20Towers!5e0!3m2!1sen!2sin!4v1634041066620!5m2!1sen!2sin" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.1700998078077!2d54.352748814860504!3d24.479562484235075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s7HPPF9H3%2BRX!5e0!3m2!1sen!2sae!4v1634194837659!5m2!1sen!2sae" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
               </div>
               <div class="col-lg-7">
@@ -775,7 +775,7 @@ https://templatemo.com/tm-568-digimedia
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/location-icon.png" alt="">
-                          <a href="https://goo.gl/maps/yG9RTMwadXQc56MN7">Accept, Khalidhiya, AbuDhabi</a>
+                          <a href="https://goo.gl/maps/X2fnMB7gBnm1cAvm7">Accept, Khalidhiya, AbuDhabi</a>
                         </div>
                       </div>
                     </div>

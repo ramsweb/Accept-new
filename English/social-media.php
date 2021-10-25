@@ -158,7 +158,7 @@ https://templatemo.com/tm-568-digimedia
               <a href="#">
                 <h4>Account Management</h4>
               </a>
-              <p>Accept For Marketting Operations is recognized Content management company in United Arab Emirates, providing quality web content which attract visitors to your website and help you move up the elusive ladder of SERPs through the use of SEO for higher ranking. Our content management service helps to increase conversions and visibility by utilizing techniques like competitive insight and user’s behaviour. We can help you to identify content mix for your business and create quality content to improve your brand's visibility and drive an emotional connection with your audience.</p>
+              <p>We manage the pages of social networking sites and social media for both companies, individuals and institutions around the world, where we improve the identity (design) accounts again and identify creative ideas for publications (posts), write content and create the necessary designs for them, publish and follow up and manage advertising campaigns funded for social networking sites.</p>
             </div>
           </div>
         </div>
@@ -171,7 +171,7 @@ https://templatemo.com/tm-568-digimedia
               <a href="#">
                 <h4>Campaigns</h4>
               </a>
-              <p>As the number of technology, such as social media sites, continues to increase, many companies are starting to rely on a variety of digital marketing strategies to help promote and market a company's services or products. Since the Internet offers the opportunity to instantly interact with a wide audience, creating a campaign based on solid technologies can happen much faster than a more standardized marketing campaign could. A result-oriented campaign helps gather information from potential customers and use that data to help target a specific group. Thus, digital marketing campaign plays a crucial role in business success. With our effective digital marketing campaign, we will introduce your brand to the public, generate revenue and create excitement around your product or service to generate sales. Contact us today and allow us to help you generate real targeted customers and convert them to sales.</p>
+              <p>Advertising campaigns aim to introduce new or existing products and services to maintain consumer loyalty to the commodity and maintain the position of the products in the market due to the large number of competitors and gain new customers with the aim of deep definition of the product and enhancing the image of the producing company in the minds of the public. The goal is to increase sales and achieve the largest economic profit. The brand’s message and the idea of the product or service must be interconnected with the target audience, which makes you achieve maximum benefit from us.</p>
             </div>
           </div>
         </div>
@@ -265,7 +265,7 @@ https://templatemo.com/tm-568-digimedia
 
   
 
-  <div id="contact" class="contact-us section">
+ <div id="contact" class="contact-us section">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
@@ -285,7 +285,7 @@ https://templatemo.com/tm-568-digimedia
               </div>
               <div class="col-lg-5">
                 <div id="map">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.3533715369417!2d54.34701951499524!3d24.47321018423808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e672ba2962a6b%3A0x4c6504696061593b!2sShining%20Towers!5e0!3m2!1sen!2sin!4v1634041066620!5m2!1sen!2sin" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.1700998078077!2d54.352748814860504!3d24.479562484235075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s7HPPF9H3%2BRX!5e0!3m2!1sen!2sae!4v1634194837659!5m2!1sen!2sae" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
               </div>
               <div class="col-lg-7">
@@ -311,7 +311,7 @@ https://templatemo.com/tm-568-digimedia
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/location-icon.png" alt="">
-                          <a href="https://goo.gl/maps/yG9RTMwadXQc56MN7">Accept, Khalidhiya, AbuDhabi</a>
+                          <a href="https://goo.gl/maps/X2fnMB7gBnm1cAvm7">Accept, Khalidhiya, AbuDhabi</a>
                         </div>
                       </div>
                     </div>

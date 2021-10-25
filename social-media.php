@@ -115,14 +115,14 @@ https://templatemo.com/tm-568-digimedia
                 <div class="row">
                   <div class="col-lg-12">
                     <h6>أكسبت</h6>
-                    <h2>أدارة حسابات التواصل الاجتماعي</h2>
-                    <p>نحن نستخدم مواقع الشبكات الاجتماعية مثل Facebook و Twitter و Linkedln والمواقع الاجتماعية الشهيرة الأخرى مع سجلات مستهدفة حقيقية وأطنان من حركة المرور كل يوم باعتبارها الوسيلة الأكثر ملاءمة لإخبار جمهور الويب عن خدماتك أو منتجاتك. نحن نستخدم أيضًا منصات تفاعلية اجتماعية أخرى مثل المنتديات الاجتماعية ومنتديات مناقشة المدونات ومنتديات الأسئلة والأجوبة ومواقع المراجعة لمساعدة الشركات على اكتساب وجود حقيقي عبر الإنترنت.</p>
+                    <h2>إدارة حسابات التواصل الاجتماعي</h2>
+                    <p>نحن نستخدم مواقع الشبكات الاجتماعية مثل فيس بوك و انستقرام و تويتر و لينكد ان والمواقع الاجتماعية الشهيرة الأخرى باعتبارها الوسيلة الأكثر ملاءمة لإخبار جمهورك عن خدماتك أو منتجاتك. نحن نستخدم أيضًا منصات تفاعلية اجتماعية أخرى مثل المنتديات الاجتماعية ومنتديات مناقشة المدونات ومنتديات الأسئلة والأجوبة ومواقع المراجعة لمساعدة الشركات على اكتساب وجود حقيقي عبر الإنترنت.</p>
                   </div>
                   <div class="col-lg-12">
                     <div class="border-first-button scroll-to-section">
                       <a href="tel:0561024332"><i class="fa fa-phone"></i> اتصل الأن</a>
                       <a href="quote.php"><i class="fa fa-envelope"></i> أطلب السعر الأن</a>
-                      <a href="https://iwtsp.com/971561024332"><i class="fa fa-whatsapp"></i> رسال واتساب</a>
+                      <a href="https://iwtsp.com/971561024332"><i class="fa fa-whatsapp"></i> راسلنا واتساب</a>
                     </div>
                   </div>
                 </div>
@@ -145,33 +145,33 @@ https://templatemo.com/tm-568-digimedia
         <div class="col-lg-4 offset-lg-4  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.3s">
           <div class="section-heading">
             <h6>أكسبت</h6>
-            <h4>أدارة حسابات <em> التواصل الاجتماعي</em></h4>
+            <h4>إدارة حسابات التواصل <em> الإجتماعي</em></h4>
             <div class="line-dec"></div>
           </div>
         </div>
         <div class="col-lg-6 show-up wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
           <div class="blog-post">
             <div class="thumb">
-              <a href="#"><img src="assets/images/features/AccountManagement.jpg" alt=""></a>
+              <a href="#"><img src="assets/images/features/AccountManagement-ar.jpeg" alt=""></a>
             </div>
             <div class="down-content">
               <a href="#">
-                <h4 dir="rtl">ادارة الحساب</h4>
+                <h4 dir="rtl">إدارة الحسابات</h4>
               </a>
-              <p dir="rtl">>أكسبت للعمليات التسويقية هي شركة إدارة محتوى معترف بها في الإمارات العربية المتحدة ، حيث توفر محتوى ويب عالي الجودة يجذب الزوار إلى موقع الويب الخاص بك ويساعدك على الارتقاء في سلم SERPs بعيد المنال من خلال استخدام مُحسنات محركات البحث للحصول على ترتيب أعلى. تساعد خدمة إدارة المحتوى لدينا على زيادة التحويلات والرؤية من خلال استخدام تقنيات مثل البصيرة التنافسية وسلوك المستخدم. يمكننا مساعدتك في تحديد مزيج المحتوى لعملك وإنشاء محتوى عالي الجودة لتحسين رؤية علامتك التجارية وتعزيز التواصل العاطفي مع جمهورك.</p>
+              <p dir="rtl">  نقوم بإدارة صفحات مواقع التواصل الاجتماعي والسوشيال ميديا لكل من الشركات والافراد والمؤسسات حول العالم، حيث نقوم بتحسين هوية (تصميم) الحسابات من جديد وتحديد الافكار الابداعية للمنشورات (البوستات) وكتابة المحتوي وانشاء التصميمات اللازمة لها والنشر والمتابعة وادارة الحملات الاعلانية الممولة لمواقع التواصل الاجتماعي.</p>
             </div>
           </div>
         </div>
         <div class="col-lg-6 show-up wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
           <div class="blog-post">
             <div class="thumb">
-              <a href="#"><img src="assets/images/features/Campaign.jpg" alt=""></a>
+              <a href="#"><img src="assets/images/features/Campaign-ar.jpeg" alt=""></a>
             </div>
             <div class="down-content">
               <a href="#">
-                <h4 dir="rtl">>الحملات</h4>
+                <h4 dir="rtl">الحملات</h4>
               </a>
-              <p dir="rtl">>مع استمرار زيادة عدد التكنولوجيا ، مثل مواقع التواصل الاجتماعي ، بدأت العديد من الشركات في الاعتماد على مجموعة متنوعة من استراتيجيات التسويق الرقمي للمساعدة في ترويج وتسويق خدمات أو منتجات الشركة. نظرًا لأن الإنترنت يوفر فرصة للتفاعل الفوري مع جمهور عريض ، فإن إنشاء حملة قائمة على تقنيات قوية يمكن أن يحدث بشكل أسرع بكثير من حملة تسويقية موحدة. تساعد الحملة الموجهة نحو النتائج في جمع المعلومات من العملاء المحتملين واستخدام تلك البيانات للمساعدة في استهداف مجموعة معينة. وبالتالي ، تلعب حملة التسويق الرقمي دورًا مهمًا في نجاح الأعمال. من خلال حملتنا التسويقية الرقمية الفعالة ، سنقدم علامتك التجارية للجمهور ، ونحقق إيرادات ونخلق الإثارة حول منتجك أو خدمتك لتوليد المبيعات. اتصل بنا اليوم واسمح لنا بمساعدتك في تكوين عملاء مستهدفين حقيقيين وتحويلهم إلى مبيعات.</p>
+              <p dir="rtl">تهدف الحملات الإعلانية إلى التعريف بالمنتجات والخدمات الجديدة أو القائمة بالفعل للحفاظ على ولاء المستهلك للسلعة والحفاظ على  مكانة  المنتجات في السوق لكثرة المنافسين وكسب عملاء جدد بهدف التعريف العميق بالمنتج وتعزيز صورة الشركة المنتجة في أذهان الجمهور والهدف زيادة المبيعات  وتحقيق أكبرربح اقتصادي وفي أكسبت نعمل على جوهر العلامة التجارية ومتطلبات الأسواق، ومواكبة أحدث الاتجاهات والتأقلم مع التغيرات الزمنية، إذ يجب أن تكون رسالة العلامة وفكرة المنتج أو الخدمة مترابطة مع الجمهور المستهدف مما يجعلكم تحققون معنا أقصى استفادة</p>
             </div>
           </div>
         </div>
@@ -265,17 +265,17 @@ https://templatemo.com/tm-568-digimedia
 
   
 
- <div id="contact" class="contact-us section" dir="rtl">
-    <div class="container">
+   <div id="contact" class="contact-us section">
+    <div class="container" dir="rtl">
       <div class="row">
         <div class="col-lg-12 offset-lg-3">
-          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-            <h6>اتصل بنا</h6>
-            <h4>اتصل بنا <em>حاليا</em></h4>
+          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+            <h6>أكسبت</h6>
+            <h4>اتصل<em> بنا الآن</em></h4>
             <div class="line-dec"></div>
           </div>
         </div>
-        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
+        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.2s">
           <form id="contact" action="" method="post">
             <div class="row">
               <div class="col-lg-12">
@@ -285,7 +285,7 @@ https://templatemo.com/tm-568-digimedia
               </div>
               <div class="col-lg-5">
                 <div id="map">
-                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14524.008064859036!2d54.35756199773545!3d24.48538699542688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e670172305d2f%3A0xf06b9f6a06c058df!2z2KfZg9iz2KjYqiDZhNmE2LnZhdmE2YrYp9iqINin2YTYqtiz2YjZitmC2YrYqSAtIEFDQ0VQVCBGT1IgTUFSS0VUSU5HIE9QRVJBVElPTlM!5e0!3m2!1sen!2sae!4v1634373167506!5m2!1sen!2sae" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.1700998078077!2d54.352748814860504!3d24.479562484235075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s7HPPF9H3%2BRX!5e0!3m2!1sen!2sae!4v1634194837659!5m2!1sen!2sae" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
                   
                 </div>
               </div>
@@ -312,7 +312,7 @@ https://templatemo.com/tm-568-digimedia
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/location-icon.png" alt="">
-                          <a href="#">برج الجزيرة ، الخالدية ، أبوظبي</a>
+                          <a href="https://goo.gl/maps/MUCBCAx3jTYbgVnY6">برج الجزيرة ، الخالدية ، أبوظبي</a>
                         </div>
                       </div>
                     </div>
@@ -327,7 +327,6 @@ https://templatemo.com/tm-568-digimedia
                         <fieldset>
                           <input type="text" name="Email" id="Email" pattern="[^ @]*@[^ @]*" placeholder="بريد الالكتروني" required="">
                         </fieldset>
-
                       </div>
                       <div class="col-lg-6">
                         <fieldset>
@@ -336,7 +335,7 @@ https://templatemo.com/tm-568-digimedia
                       </div>
                       <div class="col-lg-12">
                         <fieldset>
-                          <button type="submit" id="form-submit" class="main-button ">أرسل الرسالة الآن</button>
+                          <button type="submit" id="fcf-button" class="main-button ">أرسل الرسالة الآن</button>
                         </fieldset>
                       </div>
                     </form>
@@ -350,7 +349,6 @@ https://templatemo.com/tm-568-digimedia
       </div>
     </div>
   </div>
-
   <footer>
     <div class="container">
       <div class="row">

@@ -115,11 +115,11 @@ https://templatemo.com/tm-568-digimedia
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav" style="float:left">
-              <li class="scroll-to-section"><a href="#top" class="active"> الرئيسية</a></li>
-              <li class="scroll-to-section"><a href="#about">من نحن</a></li>
-              <li class="scroll-to-section"><a href="#services">خدماتنا</a></li>
+              <li class="scroll-to-section"><a href="index.php" class="active"> الرئيسية</a></li>
+              <li class="scroll-to-section"><a href="index.php">من نحن</a></li>
+              <li class="scroll-to-section"><a href="index.php">خدماتنا</a></li>
               <!-- <li class="scroll-to-section"><a href="#portfolio">Projects</a></li> -->
-              <li class="scroll-to-section"><a href="#blog"> المدونة</a></li>
+              <li class="scroll-to-section"><a href="blog.php"> المدونة</a></li>
               <li class="scroll-to-section"><a href="#contact">تواصل معنا</a></li>
               <li class="scroll-to-section">
                 <div class="border-first-button"><a href="English/index.php"><i class="fa fa-language"></i> EN</a></div>
@@ -146,9 +146,9 @@ https://templatemo.com/tm-568-digimedia
                 <div class="post-item">
                   <div class="right-content">
                     <a href="blog.php">
-                      <span class="category">All</span>
+                      <span class="category">الجميع</span></a>
                   </div>
-                  </a>
+                  
                 </div>
               </div>
             <?php for ($i = 0; $i < count($topics); $i++) {
@@ -204,17 +204,17 @@ https://templatemo.com/tm-568-digimedia
     </div>
   </div>
 
- <div id="contact" class="contact-us section">
+  <div id="contact" class="contact-us section">
     <div class="container" dir="rtl">
       <div class="row">
         <div class="col-lg-12 offset-lg-3">
-          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-            <h6>اتصل بنا</h6>
-            <h4>اتصل بنا <em>حاليا</em></h4>
+          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+            <h6>أكسبت</h6>
+            <h4>اتصل<em> بنا الآن</em></h4>
             <div class="line-dec"></div>
           </div>
         </div>
-        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
+        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.2s">
           <form id="contact" action="" method="post">
             <div class="row">
               <div class="col-lg-12">
@@ -251,7 +251,7 @@ https://templatemo.com/tm-568-digimedia
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/location-icon.png" alt="">
-                          <a href="#">برج الجزيرة ، الخالدية ، أبوظبي</a>
+                          <a href="https://goo.gl/maps/MUCBCAx3jTYbgVnY6">برج الجزيرة ، الخالدية ، أبوظبي</a>
                         </div>
                       </div>
                     </div>

@@ -116,7 +116,7 @@ https://templatemo.com/tm-568-digimedia
                   <div class="col-lg-12">
                     <h6>أكسبت</h6>
                     <h2>التسويق الرقمي</h2>
-                    <p>نحن شركة عمليات تسويق رقمي مقرها في الإمارات العربية المتحدة ، ونساعد الشركات على تسخير قوة استراتيجية تسويق قوية قائمة على الويب. نحن نطور ونطبق تقنيات تسويقية فعالة لنمو الأعمال التجارية بالإضافة إلى التميز عن المنافسين.</p>
+                    <p>نحن شركة عمليات تسويقية رقمية مقرها في الإمارات العربية المتحدة ، ونساعد الشركات على تسخير قوة استراتيجية تسويق قوية قائمة على الويب. نحن نطور ونطبق تقنيات تسويقية فعالة لنمو الأعمال التجارية بالإضافة إلى التميز عن المنافسين.</p>
                   </div>
                   <div class="col-lg-12">
                     <div class="border-first-button scroll-to-section">
@@ -152,42 +152,30 @@ https://templatemo.com/tm-568-digimedia
         <div class="col-lg-6 show-up wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
           <div class="blog-post">
             <div class="thumb">
-              <a href="#"><img src="assets/images/features/DigitalSearch-Engine-Optimization-eng.jpg" alt=""></a>
+              <a href="#"><img src="assets/images/features/DigitalSearch-Engine-Optimization-ar.jpg" alt=""></a>
             </div>
             <div class="down-content">
               <a href="#">
-                <h4>محرك البحث الأمثل</h4>
+                <h4>تحسين محركات البحث</h4>
               </a>
-              <p>إن مجرد إنشاء موقع ويب وتصميمه واستضافته لا يكفي للنجاح عبر الإنترنت. من الأفضل تطبيق تقنيات تحسين محركات البحث (SEO) للحصول على مرتبة عالية في محركات البحث والحصول على حركة مرور عالية الجودة إلى البوابة. نحن نقدم تقنيات تحسين محركات البحث (SEO) الكاملة التي يمكن أن تجلب زوارًا متميزين إلى موقع الويب الخاص بك وتحويلهم إلى عملاء يدفعون ، لذلك بمجرد أن يكون لديك رؤية كبيرة للعلامة التجارية ، يمكنك الحصول على العديد من العملاء. نجري بعضًا من أفضل تقنيات تحسين محركات البحث (SEO) مثل تحليل موقع الويب والتحسين المسبق وتحليل الكلمات الرئيسية والترويج الاجتماعي وما إلى ذلك من أجل الترويج الفعال لعملك. دعنا نساعدك في إنشاء مُحسّنات محرّكات البحث تعتمد على النتائج والتي ستزود موقع الويب الخاص بشركتك بالوقود لتحريكه في صدارة المنافسة وزيادة ظهور موقعك على الويب وعملك بشكل كبير.</p>
+              <p> " تحسين محركات البحث " هذا يعني التحسين من مشاهدة موقع معين ، بمعني أنه حين يقوم أحد المستخدمين بإجراء بحث مستخدماً عبارة دلالية ما ، فيظهر الموقع ضمن النتائج بالصفحة الأولي ولدينا في أكسبت وضمن صفوفنا طاقم متكمال يعمل على جعل موقع الويب الخاص بكم من أفضل المواقع في الظهور </p>
             </div>
           </div>
         </div>
         <div class="col-lg-6 show-up wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
           <div class="blog-post">
             <div class="thumb">
-              <a href="#"><img src="assets/images/features/DigitalContent-Management-eng.jpg" alt=""></a>
+              <a href="#"><img src="assets/images/features/DigitalContent-Management-ar.jpg" alt=""></a>
             </div>
             <div class="down-content">
               <a href="#">
                 <h4>ادارة المحتوى</h4>
               </a>
-              <p>معلومات المحتوى الموجودة على موقع الويب الخاص بك هي أصلك وتتطلب إدارته بشكل صحيح. المحتوى الجيد يفعل العجائب لعملك من خلال مساعدتك على إدارة معلومات موقع عملك بسهولة بما يتماشى مع منافسيك. يعد تحديث المحتوى الخاص بك هو الطريقة الوحيدة لوضع عملك في مقدمة منافسيك. نحن نقدم خدمات إدارة المحتوى الشاملة للشركات الصغيرة والكبيرة الحجم. تمكننا رؤيتنا الاستراتيجية ومنهجيات أفضل الممارسات واختيار المنتجات المستخدمة في تفاعلات العملاء من تقديم خدمات وحلول فعالة لإدارة المحتوى. تتمثل رؤيتنا وطموحنا النهائي كشركة في السعي دائمًا لنكون "وقود نمو الأعمال".</p>
+              <p>معلومات المحتوى الموجودة على موقع الويب الخاص بك هي أصلك وتتطلب إدارته بشكل صحيح. المحتوى الجيد يفعل العجائب لعملك من خلال مساعدتك على إدارة معلومات موقع عملك بسهولة بما يتماشى مع منافسيك. يعد تحديث المحتوى الخاص بك هو الطريقة الوحيدة لوضع عملك في مقدمة منافسيك. نحن نقدم خدمات إدارة المحتوى الشاملة للشركات الصغيرة والكبيرة الحجم.</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-6 show-up wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-          <div class="blog-post">
-            <div class="thumb">
-              <a href="#"><img src="assets/images/features/DigitalCampaigns-eng.jpg" alt=""></a>
-            </div>
-            <div class="down-content">
-              <a href="#">
-                <h4>الحملات</h4>
-              </a>
-              <p>مع استمرار زيادة عدد التكنولوجيا ، مثل مواقع التواصل الاجتماعي ، بدأت العديد من الشركات في الاعتماد على مجموعة متنوعة من استراتيجيات التسويق الرقمي للمساعدة في ترويج وتسويق خدمات أو منتجات الشركة. نظرًا لأن الإنترنت يوفر فرصة للتفاعل الفوري مع جمهور عريض ، فإن إنشاء حملة قائمة على تقنيات قوية يمكن أن يحدث بشكل أسرع بكثير من حملة تسويقية موحدة. تساعد الحملة الموجهة نحو النتائج في جمع المعلومات من العملاء المحتملين واستخدام تلك البيانات للمساعدة في استهداف مجموعة معينة. وبالتالي ، تلعب حملة التسويق الرقمي دورًا مهمًا في نجاح الأعمال. من خلال حملتنا التسويقية الرقمية الفعالة ، سنقدم علامتك التجارية للجمهور ، ونحقق إيرادات ونخلق الإثارة حول منتجك أو خدمتك لتوليد المبيعات. اتصل بنا اليوم واسمح لنا بمساعدتك في تكوين عملاء مستهدفين حقيقيين وتحويلهم إلى مبيعات.</p>
-            </div>
-          </div>
-        </div>
+        
       
       </div>
     </div>
@@ -279,17 +267,17 @@ https://templatemo.com/tm-568-digimedia
 
   
 
-  <div id="contact" class="contact-us section" dir="rtl">
-    <div class="container">
+  <div id="contact" class="contact-us section">
+    <div class="container" dir="rtl">
       <div class="row">
         <div class="col-lg-12 offset-lg-3">
-          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-            <h6>اتصل بنا</h6>
-            <h4>اتصل بنا <em>حاليا</em></h4>
+          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+            <h6>أكسبت</h6>
+            <h4>اتصل<em> بنا الآن</em></h4>
             <div class="line-dec"></div>
           </div>
         </div>
-        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
+        <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.2s">
           <form id="contact" action="" method="post">
             <div class="row">
               <div class="col-lg-12">
@@ -299,7 +287,7 @@ https://templatemo.com/tm-568-digimedia
               </div>
               <div class="col-lg-5">
                 <div id="map">
-                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14524.008064859036!2d54.35756199773545!3d24.48538699542688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e670172305d2f%3A0xf06b9f6a06c058df!2z2KfZg9iz2KjYqiDZhNmE2LnZhdmE2YrYp9iqINin2YTYqtiz2YjZitmC2YrYqSAtIEFDQ0VQVCBGT1IgTUFSS0VUSU5HIE9QRVJBVElPTlM!5e0!3m2!1sen!2sae!4v1634373167506!5m2!1sen!2sae" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.1700998078077!2d54.352748814860504!3d24.479562484235075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s7HPPF9H3%2BRX!5e0!3m2!1sen!2sae!4v1634194837659!5m2!1sen!2sae" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
                   
                 </div>
               </div>
@@ -326,7 +314,7 @@ https://templatemo.com/tm-568-digimedia
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/location-icon.png" alt="">
-                          <a href="#">برج الجزيرة ، الخالدية ، أبوظبي</a>
+                          <a href="https://goo.gl/maps/MUCBCAx3jTYbgVnY6">برج الجزيرة ، الخالدية ، أبوظبي</a>
                         </div>
                       </div>
                     </div>
@@ -341,7 +329,6 @@ https://templatemo.com/tm-568-digimedia
                         <fieldset>
                           <input type="text" name="Email" id="Email" pattern="[^ @]*@[^ @]*" placeholder="بريد الالكتروني" required="">
                         </fieldset>
-
                       </div>
                       <div class="col-lg-6">
                         <fieldset>
@@ -350,7 +337,7 @@ https://templatemo.com/tm-568-digimedia
                       </div>
                       <div class="col-lg-12">
                         <fieldset>
-                          <button type="submit" id="form-submit" class="main-button ">أرسل الرسالة الآن</button>
+                          <button type="submit" id="fcf-button" class="main-button ">أرسل الرسالة الآن</button>
                         </fieldset>
                       </div>
                     </form>
